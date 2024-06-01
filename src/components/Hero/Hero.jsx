@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import res from '../../assets/Res.pdf'
+import res from '../../assets/hariharan resume.pdf'
 import profile_img from "../../assets/vb.png";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
